@@ -48,7 +48,7 @@ export default function RestaurantPage() {
           description="Experience exquisite dining where elegance meets flavor. Discover our curated menu in an atmosphere designed for unforgettable moments."
           tag="Premium Dining"
           tagIcon={Utensils}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1765535476930-5ojkgd9s.jpg"
+          imageSrc=""
           imageAlt="Flamingo Restaurant elegant dining room"
           frameStyle="card"
           buttons={[
