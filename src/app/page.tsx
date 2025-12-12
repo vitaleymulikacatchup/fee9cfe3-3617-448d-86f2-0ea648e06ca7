@@ -70,7 +70,7 @@ export default function RestaurantPage() {
               id: "1",
               name: "Pan-Seared Salmon",
               price: "$34",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1765535482198-8j7g78sw.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1765539376960-0gymf75t.jpg",
               imageAlt: "Pan-seared salmon with seasonal vegetables"
             },
             {
